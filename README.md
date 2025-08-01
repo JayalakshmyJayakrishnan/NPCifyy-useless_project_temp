@@ -1,46 +1,46 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# NCPify – Where Group Chats Ascendeth to Lore 🎯
 
 
 ## Basic Details
-### Team Name: [TROMPOWSKY ATTACK]
+### Team Name: TROMPOWSKY ATTACK
 
 
 ### Team Members
-- Member 1: [Jayalakshmy Jayakrishnan] - [Adi Shankara Institute of Engineering and Technology]
-- Member 2: [Roshan Robin] - [Adi Shankara Institute of Engineering and Technology]
+- Member 1: Jayalakshmy Jayakrishnan - Adi Shankara Institute of Engineering and Technology
+- Member 2: Roshan Robin - Adi Shankara Institute of Engineering and Technology
 
 
 ### Project Description
-[NCPify is your daily ritual-powered, lore-driven pixel fantasy groupchat web experience.
-It’s what happens when fandoms meet divine chaos and screenshots become sacred relics.]
+NCPify is your daily ritual-powered, lore-driven pixel fantasy groupchat web experience.
+It’s what happens when fandoms meet divine chaos and screenshots become sacred relics.
 
 ### The Problem (that doesn't exist)
-[ People send messages. Messages get ignored. Screenshots vanish into the void.
+People send messages. Messages get ignored. Screenshots vanish into the void.
 Where’s the drama? Where’s the lore? Where’s the *ritualistic reverence* for that “you up?” text?
-We saw this existential crisis… and **overreacted appropriately.** ]
+We saw this existential crisis… and **overreacted appropriately.** 
 
 ### The Solution (that nobody asked for)
-[NCPify creates a secret society out of your groupchat screenshots.
+NCPify creates a secret society out of your groupchat screenshots.
 Exaggerate messages into legendary lores
 Rate each other’s drama
 Perform daily pixelated rituals to gain entry
 Unlock the Flipbook of Eternal Receipts
-Basically, we turned texting into a sacred cult with leaderboard mechanics. You're welcome. ;)]
+Basically, we turned texting into a sacred cult with leaderboard mechanics. You're welcome. ;)
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [**Languages:** TypeScript, HTML, CSS]
-- [**Frameworks:** Next.js, Tailwind CSS]
-- [**Libraries:** Framer Motion, react-pageflip, zustand]
-- [**Tools:** VS Code, Vercel, GitHub]
+- **Languages:** TypeScript, HTML, CSS
+- **Frameworks:** Next.js, Tailwind CSS
+- **Libraries:** Framer Motion, react-pageflip, zustand
+- **Tools:** VS Code, Vercel, GitHub
 
 For Hardware:
-- [None, m’lord. For this is a frontend fantasy, not a Raspberry Pi rebellion.]
-- [LOL. This is 100% frontend.]
+- None, m’lord. For this is a frontend fantasy, not a Raspberry Pi rebellion.
+- LOL. This is 100% frontend.
 
 
 ### Implementation
@@ -55,13 +55,13 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+!Screenshot1(Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+!Screenshot2(Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+!Screenshot3(Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
 # Diagrams
@@ -76,7 +76,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+Add your demo video link here
 *Shows the journey from mortal to lore-bearer.*
 
 # Additional Demos
