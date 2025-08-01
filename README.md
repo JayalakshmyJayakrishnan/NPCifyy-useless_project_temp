@@ -46,11 +46,27 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
 
-# Run
-[commands]
+```bash
+# Clone the Repository
+git clone https://github.com/your-username/ncpify.git
+cd ncpify
 
+# Install Dependencies
+npm install
+```
+
+---
+
+### Run
+
+```bash
+npm run dev
+```
+
+> App link :[ ]
+
+---
 ### Project Documentation
 For Software:
 
