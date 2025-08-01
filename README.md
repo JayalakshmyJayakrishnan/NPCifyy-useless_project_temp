@@ -5,35 +5,43 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [TROMPOWSKY ATTACK]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Jayalakshmy Jayakrishnan] - [Adi Shankara Institute of Engineering and Technology]
+- Member 2: [Roshan Robin] - [Adi Shankara Institute of Engineering and Technology]
+
 
 ### Project Description
-[2-3 lines about what your project does]
+[NCPify is your daily ritual-powered, lore-driven pixel fantasy groupchat web experience.
+It’s what happens when fandoms meet divine chaos and screenshots become sacred relics.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[ People send messages. Messages get ignored. Screenshots vanish into the void.
+Where’s the drama? Where’s the lore? Where’s the *ritualistic reverence* for that “you up?” text?
+We saw this existential crisis… and **overreacted appropriately.** ]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[NCPify creates a secret society out of your groupchat screenshots.
+Exaggerate messages into legendary lores
+Rate each other’s drama
+Perform daily pixelated rituals to gain entry
+Unlock the Flipbook of Eternal Receipts
+Basically, we turned texting into a sacred cult with leaderboard mechanics. You're welcome. ;)]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [**Languages:** TypeScript, HTML, CSS]
+- [**Frameworks:** Next.js, Tailwind CSS]
+- [**Libraries:** Framer Motion, react-pageflip, zustand]
+- [**Tools:** VS Code, Vercel, GitHub]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [None, m’lord. For this is a frontend fantasy, not a Raspberry Pi rebellion.]
+- [LOL. This is 100% frontend.]
+
 
 ### Implementation
 For Software:
@@ -63,26 +71,13 @@ For Software:
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+*There is none. Just pixels and dreams.*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
+*Shows the journey from mortal to lore-bearer.*
 
 # Additional Demos
 [Add any extra demo materials/links]
