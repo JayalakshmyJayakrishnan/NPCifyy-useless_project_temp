@@ -80,7 +80,7 @@ For Software:
 !Screenshot3(Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# !Architecture Diagram: (https://github.com/JayalakshmyJayakrishnan/NPCifyy-useless_project_temp/blob/main/LoreCraft%20Architecture.png?raw=true)
+# ![Architecture Diagram](https://github.com/JayalakshmyJayakrishnan/NPCifyy-useless_project_temp/blob/main/LoreCraft%20Architecture.png?raw=true)
 *An overengineered sacred blueprint mapping the divine journey of pixels, lores, and ritual logins because a simple group chat just wouldn’t suffice.*
 
 For Hardware:
