@@ -18,8 +18,12 @@ NCPify is your daily ritual-powered, lore-driven pixel fantasy groupchat web exp
 It’s what happens when fandoms meet divine chaos and screenshots become sacred relics.
 
 ### The Problem (that doesn't exist)
-People send messages. Messages get ignored. Screenshots vanish into the void.
-Where’s the drama? Where’s the lore? Where’s the *ritualistic reverence* for that “you up?” text?
+People send messages. 
+Messages get ignored. 
+Screenshots vanish into the void.
+Where’s the drama? 
+Where’s the lore? 
+Where’s the *ritualistic reverence* for that “you up?” text?
 We saw this existential crisis… and **overreacted appropriately.** 
 
 ### The Solution (that nobody asked for)
@@ -83,7 +87,7 @@ For Software:
 ### Architecture Diagram
 
 # ![Architecture Diagram](https://github.com/JayalakshmyJayakrishnan/NPCifyy-useless_project_temp/blob/main/LoreCraft%20Architecture.png?raw=true)
-*An overengineered sacred blueprint mapping the divine journey of pixels, lores, and ritual logins because a simple group chat just wouldn’t suffice.*
+*An overengineered sacred blueprint mapping the divine journey of pixels, lores and ritual logins because a simple group chat just wouldn’t suffice.*
 
 For Hardware:
 
