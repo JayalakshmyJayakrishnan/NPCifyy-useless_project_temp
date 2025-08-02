@@ -96,8 +96,9 @@ For Hardware:
 
 
 ### Project Demo
-# Video
-Add your demo video link here
+# Video[
+[![Watch Demo]([assets/demo-thumbnail.png](https://github.com/JayalakshmyJayakrishnan/NPCifyy-useless_project_temp/blob/main/NPCify%20-%20Your%20chats.%20Your%20lore.%20Your%20squad%2C%20RPG'd.%20-%20Google%20Chrome%2002-08-2025%2005_34_01.png))](https://drive.google.com/file/d/your-video-id/view](https://drive.google.com/drive/folders/144UXH5MgSrfGbOAwGYKQ-be9n0jgKM2G?usp=sharing))
+
 *Shows the journey from mortal to lore-bearer.*
 
 # Additional Demos
