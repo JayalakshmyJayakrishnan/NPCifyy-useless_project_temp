@@ -76,7 +76,8 @@ For Software:
 
 # Screenshots (Add at least 3)
 
-![Main Interface]([assets/screenshot1.png](https://github.com/JayalakshmyJayakrishnan/NPCifyy-useless_project_temp/blob/main/NPCify%20-%20Your%20chats.%20Your%20lore.%20Your%20squad%2C%20RPG'd.%20-%20Google%20Chrome%2002-08-2025%2005_34_34.png))
+### Landing Page – Main Interface  
+![Landing Page](https://github.com/JayalakshmyJayakrishnan/NPCifyy-useless_project_temp/blob/main/NPCify%20-%20Your%20chats.%20Your%20lore.%20Your%20squad%2C%20RPG'd.%20-%20Google%20Chrome%2002-08-2025%2005_34_34.png?raw=true)  
 *Login Process*
 
 !Screenshot2(Add screenshot 2 here with proper name)
