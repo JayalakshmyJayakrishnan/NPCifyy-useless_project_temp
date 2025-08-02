@@ -114,7 +114,7 @@ For Hardware:
 
 
 ### Project Demo
-# Video[
+# Video
 ![Watch Demo](https://github.com/JayalakshmyJayakrishnan/NPCifyy-useless_project_temp/blob/main/NPCify%20-%20Your%20chats.%20Your%20lore.%20Your%20squad%2C%20RPG'd.%20-%20Google%20Chrome%2002-08-2025%2005_34_01.png)(https://drive.google.com/file/d/1pg5uhElJnaNjfv_pO4bhj68AOdluxLWC/view?usp=sharing)
 
 *Shows the journey from mortal to lore-bearer.*
