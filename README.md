@@ -78,18 +78,22 @@ For Software:
 
 ### Starting Page – Landing Interface  
 ![Starting Page](https://github.com/JayalakshmyJayakrishnan/NPCifyy-useless_project_temp/blob/main/NPCify%20-%20Your%20chats.%20Your%20lore.%20Your%20squad%2C%20RPG'd.%20-%20Google%20Chrome%2002-08-2025%2005_34_01.png?raw=true)  
-*This is the landing page of LoreCraft where users are welcomed with a pixel-themed background, animated logo, and buttons to log in or create an account.*
+*This is the landing page of LoreCraft where users are welcomed to log in or create an account.*
 
 
 ### Login Interface  
 ![Landing Page](https://github.com/JayalakshmyJayakrishnan/NPCifyy-useless_project_temp/blob/main/NPCify%20-%20Your%20chats.%20Your%20lore.%20Your%20squad%2C%20RPG'd.%20-%20Google%20Chrome%2002-08-2025%2005_34_34.png?raw=true)  
 *Login Process*
 
-!Screenshot2(Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+### Group Access Page – Create or Join Groups  
+![Group Access Page](https://github.com/JayalakshmyJayakrishnan/NPCifyy-useless_project_temp/blob/main/NPCify%20-%20Your%20chats.%20Your%20lore.%20Your%20squad%2C%20RPG'd.%20-%20Google%20Chrome%2002-08-2025%2005_34_52.png?raw=true)  
+*This screen allows users to create a new group with a unique code or join an existing one. Each group acts as a private lore vault for uploaded screenshots.*
 
-!Screenshot3(Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+
+### Lore View Page – Dramatized Screenshot Display  
+![Lore View Page](https://github.com/JayalakshmyJayakrishnan/NPCifyy-useless_project_temp/blob/main/NPCify%20-%20Your%20chats.%20Your%20lore.%20Your%20squad%2C%20RPG'd.%20-%20Google%20Chrome%2002-08-2025%2005_24_10.png?raw=true)  
+*This page presents the uploaded chat screenshots in a hyper-stylized, format—turning everyday conversations into exaggerated digital lores.*
+
 
 ### Architecture Diagram
 
