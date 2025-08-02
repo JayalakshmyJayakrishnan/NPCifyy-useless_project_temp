@@ -48,7 +48,7 @@ For Hardware:
 
 
 ### Implementation
-For Software:
+
 # Installation
 
 ```bash
