@@ -73,6 +73,13 @@ npm run dev
 ---
 ### Project Documentation
 For Software:
+Features Implemented
+
+- **Pixel-style RPG UI** with animated title and background
+- **User authentication** with login/register flow 
+- **Avatar customization** with RPG roles
+- **Create and join groups** using unique group codes
+- **Upload and display screenshots** with lore formatting
 
 ##  Screenshots
 
