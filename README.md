@@ -74,9 +74,14 @@ npm run dev
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+##  Screenshots
 
-### Landing Page – Main Interface  
+### Starting Page – Landing Interface  
+![Starting Page](https://github.com/JayalakshmyJayakrishnan/NPCifyy-useless_project_temp/blob/main/NPCify%20-%20Your%20chats.%20Your%20lore.%20Your%20squad%2C%20RPG'd.%20-%20Google%20Chrome%2002-08-2025%2005_34_01.png?raw=true)  
+*This is the landing page of LoreCraft where users are welcomed with a pixel-themed background, animated logo, and buttons to log in or create an account.*
+
+
+### Login Interface  
 ![Landing Page](https://github.com/JayalakshmyJayakrishnan/NPCifyy-useless_project_temp/blob/main/NPCify%20-%20Your%20chats.%20Your%20lore.%20Your%20squad%2C%20RPG'd.%20-%20Google%20Chrome%2002-08-2025%2005_34_34.png?raw=true)  
 *Login Process*
 
