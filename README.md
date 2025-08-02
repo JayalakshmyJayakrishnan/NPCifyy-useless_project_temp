@@ -1,7 +1,7 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# NCPify – Where Group Chats Ascendeth to Lore 🎯
+# NPCify – Where Group Chats Ascendeth to Lore 🎯
 
 
 ## Basic Details
@@ -14,7 +14,7 @@
 
 
 ### Project Description
-NCPify is your daily ritual-powered, lore-driven pixel fantasy groupchat web experience.
+NPCify is your daily ritual-powered, lore-driven pixel fantasy groupchat web experience.
 It’s what happens when fandoms meet divine chaos and screenshots become sacred relics.
 
 ### The Problem (that doesn't exist)
@@ -27,7 +27,7 @@ Where’s the *ritualistic reverence* for that “you up?” text?
 We saw this existential crisis… and **overreacted appropriately.** 
 
 ### The Solution (that nobody asked for)
-NCPify creates a secret society out of your groupchat screenshots.
+NPCify creates a secret society out of your groupchat screenshots.
 Exaggerate messages into legendary lores
 Rate each other’s drama
 Perform daily pixelated rituals to gain entry
@@ -53,8 +53,8 @@ For Hardware:
 
 ```bash
 # Clone the Repository
-git clone https://github.com/your-username/ncpify.git
-cd ncpify
+git clone https://github.com/your-username/NPCify.git
+cd NPCify
 
 # Install Dependencies
 npm install
